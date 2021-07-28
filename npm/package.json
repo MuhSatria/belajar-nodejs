@@ -1,0 +1,19 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "proses belajar npm",
+  "main": "what.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello Athanasia\"",
+    "server": "node server.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "athanasia",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

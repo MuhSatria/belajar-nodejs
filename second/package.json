@@ -1,0 +1,15 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "belajar nodejs day two",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webstatis.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Athanasia",
+  "license": "ISC"
+}
