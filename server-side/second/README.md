@@ -34,7 +34,7 @@ Here’s a formal definition as given on the official Node.js website:
 
 *I/O refers to input/output. It can be anything ranging from reading/writing local files to making an HTTP request to an API.*
 
-
+*Node memanfaatkan stream secara ekstensif sebagai mekanisme transfer data.*
 
 ## File System dalam NodeJs
 ---------------------------
